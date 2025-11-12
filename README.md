@@ -1,5 +1,5 @@
 # 💫 About Me:
-💫 About Me<br><br>Hey there! 👋 I'm Tina Thomas, a passionate Data Analyst who loves turning raw numbers into stories that make sense.<br><br>I enjoy crafting insightful dashboards in Power BI and Tableau, diving deep into Excel, and adding a touch of creativity to every visualization I build.<br><br>I’m currently exploring SQL and sharpening my skills in data visualization — because I believe that the way we present data can be just as powerful as the data itself.<br><br>✨ My toolkit includes:<br><br>Power BI<br><br>Tableau<br><br>Excel<br><br>SQL<br><br>Python<br><br><br>🎯 Goal: To grow as a Data Analyst and work with a global company where data drives meaningful decisions.<br><br>⚡ Fun fact: I love blending tech with creativity 
+<br><br>Hey there! 👋 I'm Tina Thomas, a passionate Data Analyst who loves turning raw numbers into stories that make sense.<br><br>I enjoy crafting insightful dashboards in Power BI and Tableau, diving deep into Excel, and adding a touch of creativity to every visualization I build.<br><br>I’m currently exploring SQL and sharpening my skills in data visualization — because I believe that the way we present data can be just as powerful as the data itself.<br><br>✨ My toolkit includes:<br><br>Power BI<br><br>Tableau<br><br>Excel<br><br>SQL<br><br>Python<br><br><br>🎯 Goal: To grow as a Data Analyst and work with a global company where data drives meaningful decisions.<br><br>⚡ Fun fact: I love blending tech with creativity 
 
 
 ## 🌐 Socials:
@@ -12,7 +12,3 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=tinathomaskarikkatt&theme=midnight-purple&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=tinathomaskarikkatt&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
----
-[![](https://visitcount.itsvg.in/api?id=tinathomaskarikkatt&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
